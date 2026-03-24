@@ -31,7 +31,7 @@ Com isso na parte de design foram observados outros sites de vendas de jogos dig
 O projeto partiu da ideia de tentar unir elementos da natureza com ícones do mundo gamer então depois de algumas diferentes interpretações nos chegamos a um logo que mistura a Vitória Régia pelos motivos explicados anteriormente com o símbolo de desligar que é algo extremamente representativo de eletrônicos para criar uma forma que representa um “G” e uma barra de vida a sua esquerda representando o “I”, esse tema de vitória régia
 também é adotado para um plano de fundo do site que criam formas orgânicas e dar uma cara própria para a marca relacionada com a Mãe das águas.  
 
-
+![Preview do Site](/imgs/readme/logotipo.png)
 
 ---
 
@@ -47,6 +47,8 @@ Isso só não é o caso quando os sites de venda são diretamente da empresa que
 As cores principais do projeto são um amarelo pastel (#EFD47C) e um laranja claro (#EDB25A), não somente para representar esse calor brasileiro mas também para se destacar dos competidores que em sua maioria possuem uma paleta de cores frias com poucas alterações, a paleta ainda conta com highlights em um azul marinho menos saturado (#167B8D), uma cor neutra clara para complementar o azul (#BFEDE9) e uma cor neutra escura mais terrosa (#6E533E) para compor o projeto.
 Uma Paleta para a versão escura do site foi pensada porém ainda não implementada nessa primeira entrega devido a característica da entrega, mas o grupo entende a necessidade de ter essa opção. 
 
+![previw do site](/imgs/readme/paleta.png)
+
 > ⚠️ Uma versão dark mode foi planejada, mas ainda não implementada.
 
 ---
@@ -61,14 +63,14 @@ As fontes utilizadas foram:
 
 ## 🚀 Tecnologias
 
-- HTML5  
-- CSS3  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
 
 ---
 
 ## Referências
 
-https://store.steampowered.com/
-https://www.nintendo.com/us/store/
-https://www.playstation.com/pt-br/ps5/games/?smcid=pdc%3Apt-br%3Aprimary%20nav%3Amsg-games%3Aps5
+https://store.steampowered.com/<br>
+https://www.nintendo.com/us/store/<br>
+https://www.playstation.com/pt-br/ps5/games/?smcid=pdc%3Apt-br%3Aprimary%20nav%3Amsg-games%3Aps5<br>
 https://store.epicgames.com/pt-BR/?lang=pt-BR 
